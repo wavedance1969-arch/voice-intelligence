@@ -1,0 +1,226 @@
+{
+  "BTCUSDT": {
+    "long": {
+      "bias": "neutral",
+      "confidence": 0.00,
+      "max_drawdown": 0.0,
+      "comment": "Aktuell keine dominante historische Tendenz erkennbar"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.00,
+      "max_drawdown": 0.0,
+      "comment": "Short- und Long-Performance historisch ausgeglichen"
+    }
+  },
+
+  "ETHUSDT": {
+    "long": {
+      "bias": "weak",
+      "confidence": 0.02,
+      "max_drawdown": -1.1,
+      "comment": "Geringe Long-Tendenz ohne klare Überlegenheit"
+    },
+    "short": {
+      "bias": "weak",
+      "confidence": 0.01,
+      "max_drawdown": -1.3,
+      "comment": "Short-Setups historisch selten dominant"
+    }
+  },
+
+  "LTCUSDT": {
+    "long": {
+      "bias": "bullish",
+      "confidence": 0.57,
+      "max_drawdown": -3.1,
+      "comment": "Historisch stabile Long-Performance mit solider Trefferquote"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.32,
+      "max_drawdown": -2.9,
+      "comment": "Short-Setups vorhanden, aber weniger konsistent"
+    }
+  },
+
+  "OPUSDT": {
+    "long": {
+      "bias": "bullish",
+      "confidence": 0.53,
+      "max_drawdown": -4.2,
+      "comment": "Positive Long-Tendenz bei mittlerem Risiko"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.29,
+      "max_drawdown": -3.8,
+      "comment": "Short-Performance uneinheitlich"
+    }
+  },
+
+  "NEARUSDT": {
+    "long": {
+      "bias": "bullish",
+      "confidence": 0.50,
+      "max_drawdown": -4.5,
+      "comment": "Long-Setups historisch profitabel bei höherer Volatilität"
+    },
+    "short": {
+      "bias": "weak",
+      "confidence": 0.21,
+      "max_drawdown": -4.1,
+      "comment": "Short-Ansätze selten überzeugend"
+    }
+  },
+
+  "AVAXUSDT": {
+    "long": {
+      "bias": "bullish",
+      "confidence": 0.50,
+      "max_drawdown": -5.0,
+      "comment": "Momentum-basierte Long-Strategien historisch erfolgreich"
+    },
+    "short": {
+      "bias": "weak",
+      "confidence": 0.24,
+      "max_drawdown": -4.6,
+      "comment": "Short-Performance unterdurchschnittlich"
+    }
+  },
+
+  "ARBUSDT": {
+    "long": {
+      "bias": "moderate",
+      "confidence": 0.44,
+      "max_drawdown": -4.8,
+      "comment": "Leichte Long-Dominanz mit mittlerer Stabilität"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.30,
+      "max_drawdown": -4.4,
+      "comment": "Short- und Long-Ergebnisse nah beieinander"
+    }
+  },
+
+  "DOTUSDT": {
+    "long": {
+      "bias": "moderate",
+      "confidence": 0.43,
+      "max_drawdown": -4.2,
+      "comment": "Historisch konsistente Long-Tendenz"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.28,
+      "max_drawdown": -4.0,
+      "comment": "Short-Strategien weniger stabil"
+    }
+  },
+
+  "INJUSDT": {
+    "long": {
+      "bias": "moderate",
+      "confidence": 0.40,
+      "max_drawdown": -5.1,
+      "comment": "Solide Long-Ergebnisse bei erhöhter Schwankung"
+    },
+    "short": {
+      "bias": "weak",
+      "confidence": 0.22,
+      "max_drawdown": -4.7,
+      "comment": "Short-Tendenz historisch schwach"
+    }
+  },
+
+  "SUIUSDT": {
+    "long": {
+      "bias": "moderate",
+      "confidence": 0.36,
+      "max_drawdown": -4.9,
+      "comment": "Positive Long-Ansätze mit begrenzter Historie"
+    },
+    "short": {
+      "bias": "weak",
+      "confidence": 0.20,
+      "max_drawdown": -4.5,
+      "comment": "Short-Datenlage dünn"
+    }
+  },
+
+  "BNBUSDT": {
+    "long": {
+      "bias": "moderate",
+      "confidence": 0.35,
+      "max_drawdown": -3.9,
+      "comment": "Stabile Long-Performance bei geringerem Risiko"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.27,
+      "max_drawdown": -3.6,
+      "comment": "Short-Setups ohne klare Dominanz"
+    }
+  },
+
+  "ADAUSDT": {
+    "long": {
+      "bias": "weak",
+      "confidence": 0.31,
+      "max_drawdown": -4.0,
+      "comment": "Leichte Long-Tendenz ohne starke Signale"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.29,
+      "max_drawdown": -3.8,
+      "comment": "Short- und Long-Ergebnisse ausgeglichen"
+    }
+  },
+
+  "SOLUSDT": {
+    "long": {
+      "bias": "weak",
+      "confidence": 0.26,
+      "max_drawdown": -5.4,
+      "comment": "Long-Performance inkonsistent bei hoher Volatilität"
+    },
+    "short": {
+      "bias": "moderate",
+      "confidence": 0.33,
+      "max_drawdown": -5.0,
+      "comment": "Short-Setups historisch etwas stabiler"
+    }
+  },
+
+  "LINKUSDT": {
+    "long": {
+      "bias": "weak",
+      "confidence": 0.25,
+      "max_drawdown": -3.7,
+      "comment": "Leichte Long-Tendenz ohne klare Dominanz"
+    },
+    "short": {
+      "bias": "neutral",
+      "confidence": 0.26,
+      "max_drawdown": -3.6,
+      "comment": "Short-Performance ähnlich zur Long-Seite"
+    }
+  },
+
+  "XRPUSDT": {
+    "long": {
+      "bias": "weak",
+      "confidence": 0.21,
+      "max_drawdown": -3.5,
+      "comment": "Historisch geringe Long-Dynamik"
+    },
+    "short": {
+      "bias": "moderate",
+      "confidence": 0.34,
+      "max_drawdown": -3.9,
+      "comment": "Short-Setups tendenziell stabiler"
+    }
+  }
+}
