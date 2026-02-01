@@ -17,8 +17,6 @@ Die App fungiert als intelligentes Cockpit, das unstrukturierte Sprache in präz
 * **Zero-Click Workflow:** Die gesamte Bedienung erfolgt über die Leertaste (Hotkey). Keine unnötigen Mauswege – der Fokus bleibt zu 100 % auf der Analyse.
 * **Minimalismus:** Informationen erscheinen nur dann, wenn sie durch das Gespräch relevant werden. Das verhindert "Information Overload".
 
-
-
 ## 🚧 Herausforderungen & Learning
 Die größte technische Schwierigkeit lag darin, die Brücke zwischen lokaler Hardware (Mikrofon/Windows-App) und der Cloud-KI so stabil zu bauen, dass keine Verzögerungen entstehen. Besonders die Entwicklung einer robusten Fehlerbehandlung für die installierte `.exe`-Version (Permissions & Netzwerk) war ein intensiver Lernprozess, um eine reibungslose User Experience zu garantieren.
 
@@ -31,7 +29,7 @@ Die größte technische Schwierigkeit lag darin, die Brücke zwischen lokaler Ha
 ## 🚀 Installation & Setup
 1. **Repository klonen:** `git clone [URL]`
 2. **Abhängigkeiten installieren:** `npm install`
-3. **API-Key:** Hinterlegen des Groq-Keys in der Umgebungsvariable oder `page.tsx`.
+3. **API-Key:** Hinterlegen Sie Ihren eigenen Groq-Key in der `page.tsx` (direkt nach den Imports).
 4. **Starten:**
    * Entwicklung: `npm run dev`
    * Desktop-Build: `npx tauri build`
@@ -48,11 +46,11 @@ Um die besten Ergebnisse zu erzielen, drücken Sie die **Leertaste** und spreche
    *Die KI gleicht Ihren Wunsch mit den Breakout-Targets und den Volt-Commander-Tendenzen ab.*
 
 ### 🔑 Test-Hinweis für die Jury
-Um Ihnen einen reibungslosen Test der Anwendung zu ermöglichen, habe ich für diese Challenge einen aktiven **GROQ API-Key** direkt integriert. 
-* Die App ist somit für Ihre Begutachtung **sofort einsatzbereit**.
-* Bitte beachten Sie, dass dieser Key sowie die Anbindung an die Daten-Schnittstellen nach Abschluss des Bewerbungsverfahrens von mir deaktiviert werden.
+Um Ihnen einen reibungslosen Test der Anwendung zu ermöglichen, ersetzen Sie den **GROQ API-Key** mit Ihren eigenen Key. 
+* Bitte beachten Sie, dass  die Anbindung an die Daten-Schnittstellen nach Abschluss des Bewerbungsverfahrens von mir deaktiviert werden.
 
 *Hinweis: Der Commander reagiert dynamisch auf Zeiträume (langfristig vs. kurzfristig) und passt die Risiko-Einschätzung in den Detail-Kacheln sofort an.*
 
 ---
+
 *Entwickelt von Uwe | Innovation Project 2026*
